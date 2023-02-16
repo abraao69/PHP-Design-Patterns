@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
- <img width="900px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11b_vfmB8PsFJXT0D5yQ4lLCfN_Hil8Ajr5apCrfsF0I90b4Uajn4JIV6XtGcgpptR34&usqp=CAU" />
+ <img width="900px" src="https://miro.medium.com/max/620/1*zgEfHDfuRjQMP7G7kTqY_A.png" />
 </p>
 
 
